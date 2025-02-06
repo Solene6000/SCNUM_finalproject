@@ -26,6 +26,6 @@ Voici des images des résultats :
 - Les sources relatives aux disparus de la guerre d'Algérie (1954-1962), guide numérique de France Archives : https://francearchives.gouv.fr/fr/article/166418920#h_469089488421560846300138
 
 **Bibliographie** :
-Rahal, Malika. et al. « La disparition forcée durant la Guerre d’Indépendance algérienne : Le projet Mille autres, ou les disparus de la “bataille d’Alger” (1957) ». _Annales. Histoire, Sciences Sociales_, 2022/2 77e année, 2022. p.263-289.
-Stora, Benjamin. _Histoire de la guerre d’Algérie : 1954-1962_. Paris, La Découverte. « Repères », (2004)
-Thénault, Sylvie. « Dérogation générale et déclassification des archives contemporaines : Le cas d’Audin et des disparus de la Guerre d’indépendance algérienne ». _Annales. Histoire, Sciences Sociales_, 2019/3 74e année, 2019. p.687-709.
+- Rahal, Malika. et al. « La disparition forcée durant la Guerre d’Indépendance algérienne : Le projet Mille autres, ou les disparus de la “bataille d’Alger” (1957) ». _Annales. Histoire, Sciences Sociales_, 2022/2 77e année, 2022. p.263-289.
+- Stora, Benjamin. _Histoire de la guerre d’Algérie : 1954-1962_. Paris, La Découverte. « Repères », (2004)
+- Thénault, Sylvie. « Dérogation générale et déclassification des archives contemporaines : Le cas d’Audin et des disparus de la Guerre d’indépendance algérienne ». _Annales. Histoire, Sciences Sociales_, 2019/3 74e année, 2019. p.687-709.
