@@ -1,4 +1,4 @@
-**Projet dans le cadre du cours Sciences numériques appliquées à la gestion de l'information de G. Vitali, à l'Université Versailles Saint-Quentin en Yvelines Paris-Saclay.**
+**Projet dans le cadre du cours "Sciences numériques appliquées à la gestion de l'information" de G. Vitali pour le Master Archives (M1), à l'Université Versailles Saint-Quentin en Yvelines Paris-Saclay.**
 
 Ce projet consiste en plusieurs visualisations de données liées aux victimes civiles disparues durant la guerre d'Algérie (1954-1962), et aux archives relatives à celles-ci. Les données utilisées proviennent des sites Mémoire des hommes et 1000autres.org. 
 Voici des images des résultats :
